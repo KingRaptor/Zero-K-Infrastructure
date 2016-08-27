@@ -202,3 +202,6 @@ ModelBase/.vs/config/applicationhost.config
 .vs/config/applicationhost.config
 ZkLobbyInstaller/Zero-K.setup.exe
 Zero-K.info/engine/win32/*.zip
+
+# Unwanted files
+Tests/Resources/mail*.txt
